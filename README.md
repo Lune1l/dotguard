@@ -66,7 +66,7 @@ python verify_key.py
 ```
 Ensure that face_1_dotcode.png, face_2_dotcode.png, face_3_dotcode.png, private_key.bin, and signature.bin are in the same directory as the script.
 
-##Dependencies
+## Dependencies
 
     Python 3.x
     NumPy
