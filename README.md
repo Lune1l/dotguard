@@ -1,6 +1,6 @@
 # Secure Triangle Key Access System
 
-![Project Logo](project/ressources/logo_white.png)
+![Project Logo](/project_ressources/logo_white.png)
 
 This project is a proof of concept for a physical security access system using a triangular key engraved with a unique dot pattern, which represents an AES encryption key. The key system relies on a laser scanner that reads the dot-encoded keys on each face of the triangle to validate access.
 
