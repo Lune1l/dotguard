@@ -15,6 +15,23 @@ All contributions are welcome
 - Script to read from a camera the dots on the key and reconstruct the key with accuracy.
 - Makes P.O.C of the physical key (3d + STL).
 
+## License
+
+This project is licensed under the following terms:
+
+    Attribution: The original concept and proof of concept (P.O.C.) of the Secure Triangle Key Access System must be attributed to the creator of this project in all derivative works, distributions, or implementations.
+
+    Open Source Contributions: All contributions to this project are open source and must adhere to the same licensing terms. Contributions remain part of the collective project framework.
+
+    Usage Restrictions:
+        Non-Commercial Use: The system, framework, and related resources can be reused, modified, and distributed for non-commercial purposes, provided attribution is maintained.
+        Professional Context: The project may also be utilized in professional or in-situ contexts (e.g., in secure access systems), but direct commercial exploitation or resale of the framework is not permitted without explicit permission from the original creator.
+
+    Framework Development: The goal is to establish a robust technical foundation for this security access system. Derivatives should aim to improve, adapt, or expand the framework while adhering to these license terms.
+
+By contributing to or utilizing this project, you agree to abide by these terms. For any questions or inquiries about licensing exceptions, please contact the original creator.
+
+
 ## System Details
 
 1. **Triangular Key Design**: The physical key has three faces, each engraved with a unique dot pattern encoding a 128-bit AES key.
