@@ -8,6 +8,13 @@ This project is a proof of concept for a physical security access system using a
 
 The **Secure Triangle Key Access System** combines physical and digital security by using a physical triangular key engraved with unique dot patterns to control access. Each face of the key encodes a unique AES-128 encryption key in a dot matrix format, ensuring that only the correct key provides access.
 
+## TO DO LEFT
+
+All contributions are welcome
+
+- Script to read from a camera the dots on the key and reconstruct the key with accuracy.
+- Makes P.O.C of the physical key (3d + STL).
+
 ## System Details
 
 1. **Triangular Key Design**: The physical key has three faces, each engraved with a unique dot pattern encoding a 128-bit AES key.
